@@ -1,4 +1,4 @@
-- #Vladislav Paromov#
+- **Vladislav Paromov**
 - _tel. +375 29 7876087_
 - I am in **Minsk**, Belarus.
 - If you have any questions or suggestions, you can call me or use the telegram messenger or viber.
