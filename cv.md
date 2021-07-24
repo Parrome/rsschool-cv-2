@@ -8,7 +8,7 @@
 - Unfortunately, I have no work experience yet in position Junior Dev.
 - My education consists of studying online courses and YouTube lessons.
 - I studied English at school as well as college. At the moment, I continue to study on my own.
-- Today I can write something on JS :)
+- Today I can write something on JS
 
 ```
 var i;
